@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! My name is Ewa and I'm a Junior Java Developer with a passion for learning and exploring the world of software engineering. Here’s a little bit about me and what I’ve been working on.    
+Welcome to my GitHub! My name is Ewa and I'm a Junior Software Developer with a passion for learning and exploring the world of software engineering. Here’s a little bit about me and what I’ve been working on.    
 
 
 
@@ -37,7 +37,7 @@ Before diving into the world of coding, I honed my problem-solving and communica
 
 ### 🧰 Tech Stack
 
-- **Languages**: Java, JavaScript, Swift
+- **Languages**: Java, JavaScript, Swift, basics of Python
 - **Frameworks**: Spring Boot, Hibernate, React (in progress)
 - **Databases**: PostgreSQL, H2
 - **Tools**: IntelliJ, Postman, DBeaver, Git, MacOS, CLI     
